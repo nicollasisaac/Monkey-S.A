@@ -1,0 +1,10 @@
+U:\Monkey S.A\Monkey S.A\Monkey S.A\bin\Debug\Monkey S.A.exe.config
+U:\Monkey S.A\Monkey S.A\Monkey S.A\bin\Debug\Monkey S.A.exe
+U:\Monkey S.A\Monkey S.A\Monkey S.A\bin\Debug\Monkey S.A.pdb
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey S.A.csprojAssemblyReference.cache
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey_S.A.Form1.resources
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey_S.A.Properties.Resources.resources
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey S.A.csproj.GenerateResource.cache
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey S.A.csproj.CoreCompileInputs.cache
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey S.A.exe
+U:\Monkey S.A\Monkey S.A\Monkey S.A\obj\Debug\Monkey S.A.pdb
